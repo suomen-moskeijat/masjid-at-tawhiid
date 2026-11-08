@@ -1,0 +1,10 @@
+# Helsingin Muslimit (Masjid at-Tawhiid) – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Helsingin Muslimit (Masjid at-Tawhiid)"
+description: "Helsingin Muslimit (Masjid at-Tawhiid), Viljatie 4 C, 00700 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: helsingin-muslimit-masjid-at-tawhiid     # tiedosto _moskeijat/helsingin-muslimit-masjid-at-tawhiid.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-at-tawhiid/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-at-tawhiid"
