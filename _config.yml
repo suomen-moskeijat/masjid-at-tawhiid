@@ -8,3 +8,4 @@ moskeija: helsingin-muslimit-masjid-at-tawhiid     # tiedosto _moskeijat/helsing
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://suomen-moskeijat.github.io"
 baseurl: "/masjid-at-tawhiid"
+kielet: [fi]   # sivuston kielivalikko (hallintapaneeli → Asetukset)
